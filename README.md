@@ -11,3 +11,4 @@ Pro: Git clone to your Xcode projects folder.
 
 
 Copyright © The App Brewery
+# I-am-poor-ios
